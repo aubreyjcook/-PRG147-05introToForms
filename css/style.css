@@ -122,3 +122,7 @@ main .row {
     background-color: lightyellow;
     color: midnightblue;
 }
+
+.formBox {
+    display: inline-block;
+}
